@@ -14,11 +14,7 @@ _This webpage includes a form to obtain an input of a sentence or word. jQuery i
     *   _Example Input: 3_
     *   _Example Output: 3_
 
-2. _The program adds “ay” to single-letter words beginning with a vowel_
-    *    _Example Input: I_
-    *	_Example Output: iay_
-
-3. _The program adds “way” to the end of multi-character words beginning with  a vowel_
+3. _The program adds “way” to the end of words beginning with  a vowel_
     *	_Example Input: eat_
     *   _Example Output: eatway_ 
 
@@ -30,7 +26,7 @@ _This webpage includes a form to obtain an input of a sentence or word. jQuery i
     *	_Example Input: yellow_
     *	_Example Output: ellowyay_
 
-6. The program takes words begging with consecutive consonants and moves the first consecutive consonants to the end and adds “ay”
+6. The program takes words beggining with consecutive consonants and moves the first consecutive consonants to the end and then adds “ay”
     *	_Example Input: school_
     *	_Example Output: oolschay_
 
